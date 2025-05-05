@@ -1,0 +1,12 @@
+1,Resetz,69,resetz.png
+2,CocoMax,20,cocomax.png
+3,Easy Tomorrow Jelly,85,easytomorrowjelly.png
+4,FOD,95,fod.png
+5,Wipe,15,wipe.png
+6,HONGTHAI,38,hongthai.png
+7,POY-SIAN,24,poysian.png
+8,C-vitt Lemon,16,cvittlemon.png
+9,C-vitt Pomegranate,16,cvittpomegranate.png
+10,C-vitt Orange,16,cvittorange.png
+11,Nuriv Giggle,69,nurivgiggle.png
+12,Ener-g Lemon,20,ener-g-lemon.png

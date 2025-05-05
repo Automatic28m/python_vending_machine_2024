@@ -1,0 +1,13 @@
+Main Menu
+- Get data from file display as column
+- Display date and time
+- Scrollable column
+Basket
+- Increase and decrease item from basket
+Checkout
+- Display total price
+- Decrease amount of total price according to inserted cash
+- Insert cash more then total price will proceed to thank you page
+Thank you page
+- Do not display change when the inserted cash = total price
+- Display change by telling cash and amount

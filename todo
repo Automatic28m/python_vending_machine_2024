@@ -1,0 +1,10 @@
+- Main menu page
+    - Display Product Image @done
+
+- Basket Page
+    - Display Pro_name, Pro_price, amount @done
+    - Display total_price @done
+    - Remove product button @done
+    - Display total amount @done
+- Accept Case page
+    - Calculate inserted cash @done
