@@ -1,0 +1,19 @@
+Date and Time: 31-05-2025 12:29:47
+Items Purchased:
+Product: HONGTHAI, Quantity: 2, Price per item: 38
+Product: C-vitt Orange, Quantity: 1, Price per item: 16
+Product: POY-SIAN, Quantity: 1, Price per item: 24
+Product: CocoMax, Quantity: 1, Price per item: 20
+Total Quantity: 5
+Total Price: 136
+Cash Inserted: 200
+Change: 64
+--------------------------------------------------
+Date and Time: 31-05-2025 12:32:35
+Items Purchased:
+Product: C-vitt Pomegranate, Quantity: 1, Price per item: 16
+Total Quantity: 1
+Total Price: 16
+Cash Inserted: 20
+Change: 4
+--------------------------------------------------

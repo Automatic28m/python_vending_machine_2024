@@ -1,3 +1,5 @@
+# python -m pip install --force-reinstall --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
+
 import PySimpleGUI as sg
 from PIL import Image
 import os
